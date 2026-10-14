@@ -43,6 +43,19 @@ That lens shapes everything I build.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ender732&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
+### 📊 Advanced Metrics & Credentials
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a0f543f3-9f4b-437d-9d90-3a85e6245d26&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+### 🛡️ Verified Certifications & Credentials
+
+| Security & Systems | Networking & Infrastructure | Operating Systems & Core |
+| :--- | :--- | :--- |
+| [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org) | [![Cisco Cyber Threat Management](https://img.shields.io/badge/Cisco-Cyber%20Threat%20Mgmt-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) | [![Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-fcc624?style=for-the-badge&logo=linux&logoColor=black)](https://www.lpi.org) |
+| [![Endpoint Security](https://img.shields.io/badge/Cisco-Endpoint%20Security-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) | [![Network Defense](https://img.shields.io/badge/Cisco-Network%20Defense-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) | [![OS Basics](https://img.shields.io/badge/Cisco-OS%20Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) |
+| [![Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cyber-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) | [![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) | [![Hardware Basics](https://img.shields.io/badge/Cisco-Hardware%20Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) |
 ---
 
 ### 📍 Currently
